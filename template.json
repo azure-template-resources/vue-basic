@@ -51,7 +51,7 @@
     },
     "staticSiteAppArtifactLocation": {
       "type": "string",
-      "defaultValue": "build",
+      "defaultValue": "dist",
       "metadata": {
         "description": "The app artifact location for the repo used to create static web app"
       }
